@@ -185,7 +185,8 @@
         "constant.character",
         "constant.escape",
         "keyword.other.unit",
-        "keyword.other"
+        "keyword.other",
+        "constant.language.boolean"
       ],
       "settings": {
         "foreground": "#FFC799"
