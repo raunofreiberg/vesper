@@ -15,6 +15,10 @@
     "editorGutter.addedBackground": "#99FFE4",
     "editorGutter.deletedBackground": "#FF8080",
     "editorGutter.modifiedBackground": "#FFC799",
+    "diffEditor.insertedTextBackground": "#99FFE440",
+    "diffEditor.insertedLineBackground": "#99FFE440",
+    "diffEditor.removedTextBackground": "#FF808040",
+    "diffEditor.removedLineBackground": "#FF808040",
     // Sidebar
     "sideBar.background": "#101010",
     "sideBarTitle.foreground": "#A0A0A0",
