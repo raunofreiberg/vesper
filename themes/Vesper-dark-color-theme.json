@@ -15,10 +15,10 @@
     "editorGutter.addedBackground": "#99FFE4",
     "editorGutter.deletedBackground": "#FF8080",
     "editorGutter.modifiedBackground": "#FFC799",
-    "diffEditor.insertedTextBackground": "#99FFE420",
-    "diffEditor.insertedLineBackground": "#99FFE420",
-    "diffEditor.removedTextBackground": "#FF808020",
-    "diffEditor.removedLineBackground": "#FF808020",
+    "diffEditor.insertedTextBackground": "#99FFE415",
+    "diffEditor.insertedLineBackground": "#99FFE415",
+    "diffEditor.removedTextBackground": "#FF808015",
+    "diffEditor.removedLineBackground": "#FF808015",
     // Sidebar
     "sideBar.background": "#101010",
     "sideBarTitle.foreground": "#A0A0A0",
@@ -90,7 +90,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#747474",
+        "foreground": "#7c7c7c",
       }
     },
     {
