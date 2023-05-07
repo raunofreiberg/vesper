@@ -90,7 +90,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#595959"
+        "foreground": "#747474",
       }
     },
     {
