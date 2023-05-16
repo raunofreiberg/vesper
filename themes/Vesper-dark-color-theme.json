@@ -15,6 +15,8 @@
     "editorGutter.addedBackground": "#99FFE4",
     "editorGutter.deletedBackground": "#FF8080",
     "editorGutter.modifiedBackground": "#FFC799",
+    "editorInlayHint.background": "#FFFFFF0C",
+    "editorInlayHint.foreground": "#A0A0A0",
     "diffEditor.insertedTextBackground": "#99FFE440",
     "diffEditor.insertedLineBackground": "#99FFE440",
     "diffEditor.removedTextBackground": "#FF808040",
