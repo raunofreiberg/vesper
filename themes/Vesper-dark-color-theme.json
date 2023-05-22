@@ -19,6 +19,8 @@
     "diffEditor.insertedLineBackground": "#99FFE415",
     "diffEditor.removedTextBackground": "#FF808015",
     "diffEditor.removedLineBackground": "#FF808015",
+    "editorInlayHint.foreground": "#A0A0A0",
+    "editorInlayHint.background": "#1C1C1C"
     // Sidebar
     "sideBar.background": "#101010",
     "sideBarTitle.foreground": "#A0A0A0",
