@@ -9,7 +9,7 @@
     "url": "https://github.com/raunofreiberg/vesper"
   },
   "icon": "icon.png",
-  "version": "0.0.39",
+  "version": "0.0.40",
   "engines": {
     "vscode": "^1.75.0"
   },
