@@ -39,6 +39,7 @@
     // Tab
     "tab.border": "#101010",
     "tab.activeBackground": "#161616",
+    "tab.activeBorder": "#FFC799",
     "tab.inactiveBackground": "#101010",
     // Status bar
     "statusBar.debuggingForeground": "#FFF",
